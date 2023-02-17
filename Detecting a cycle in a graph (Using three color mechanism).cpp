@@ -115,3 +115,5 @@ int main()
 
 	return 0;
 }
+
+//mention the time complexity and space complexity in all the code
